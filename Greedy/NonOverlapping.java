@@ -21,7 +21,6 @@ class Solution {
                 prevEnd=intervals[i][1];
             }
         }
-
         return count;
     }
 }
